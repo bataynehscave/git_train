@@ -12,6 +12,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('Thuraya')
-    print_hi('mohamed')
+    x=sum2(2,5)
+    print(x)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
